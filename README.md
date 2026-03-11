@@ -1,2 +1,5 @@
-# Taller-3
-Este es el taller 3 de la Clase de Logíca de Programación.
+#[] Taller-3
+
+>Este Repositorio es parte del Taller # 3 de La Clase de Logica de Programacíon, este tienen como enfoque
+
+
