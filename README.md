@@ -22,3 +22,8 @@
 ## ⦗📁⦘ Repositorio:
 
 >En este repositorio esta la explicacion de cada uno de los 3 programas que realizamos en el taller#3, la presentacion con las diapositivas donte explicamos que son los ciclos y resolvemos varias preguntas de teoria y evidencias de los 3 programas.
+
+
+## ⦗📽️⦘ Diapositivas:
+
+>Documentación del proceso del taller#3 mostrando como se realizaron los 3 programas, tambien una explicacion sobre los ciclos y tambien respondiendo unas preguntas sobre la teoria de ciclos.
