@@ -32,3 +32,9 @@
 ## ⦗🗣⦘ Exposición:
 
 >Explicación del proceso de realización del taller#3, sustentando el como hicimos los programas y también mostrando las diapositivas explicando que son los ciclos y sus tipos y respondiendo preguntas teoricas sobre ciclos.
+
+
+## ⦗🪪⦘ Créditos:
+
+>`Emanuel Tamayo Florez`
+>`Esteban Presiga Posada`
