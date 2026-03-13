@@ -14,3 +14,11 @@
 > 2. Crear un Juego donde el usuario debe adivinar un número aleatorio entre n y m donde n y m son numeros enteros.
 
 > 3. Mostrar la tabla de multiplicar de un número dado por el usuario.
+
+
+## ⦗📑⦘ Contenido:
+
+
+## ⦗📁⦘ Repositorio:
+
+>En este repositorio esta la explicacion de cada uno de los 3 programas que realizamos en el taller#3, la presentacion con las diapositivas donte explicamos que son los ciclos y resolvemos varias preguntas de teoria y evidencias de los 3 programas.
