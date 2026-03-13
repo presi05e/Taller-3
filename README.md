@@ -18,6 +18,11 @@
 
 ## ⦗📑⦘ Contenido:
 
+- Repositorio.
+- Diapositivas.
+- Exposicion.
+- Creditos.
+
 
 ## ⦗📁⦘ Repositorio:
 
