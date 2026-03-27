@@ -32,6 +32,7 @@
 ## ⦗📽️⦘ Diapositivas:
 
 >Documentación del proceso del taller#3 mostrando como se realizaron los 3 programas, tambien una explicacion sobre los ciclos y sus tipos, y tambien respondiendo unas preguntas sobre la teoria de ciclos.
+>[Diapositivas](https://www.canva.com/design/DAHD1WNqPjI/1z57HVt54a01PRRRibahww/edit?utm_content=DAHD1WNqPjI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## ⦗🗣⦘ Exposición:
