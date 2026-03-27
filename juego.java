@@ -8,7 +8,7 @@ public class juego {
 
         try {
 
-            System.out.println("🎯 ===== JUEGO ADIVINA EL NUMERO ===== 🎯");
+            System.out.println(" ===== JUEGO ADIVINA EL NUMERO ===== ");
 
             System.out.print("Ingrese el valor minimo (n): ");
             int n = sc.nextInt();
@@ -29,22 +29,22 @@ public class juego {
 
                 if (intento == numeroSecreto) {
 
-                    System.out.println("🎉 ¡Correcto! Adivinaste el numero 🎉");
+                    System.out.println(" ¡Correcto! Adivinaste el numero <(^_^)>");
                     break;
 
                 } else if (intento < numeroSecreto) {
 
-                    System.out.println("🔼 El numero es MAYOR");
+                    System.out.println(" El numero es MAYOR");
 
                 } else {
 
-                    System.out.println("🔽 El numero es MENOR");
+                    System.out.println(" El numero es MENOR");
                 }
             }
 
         } catch (Exception e) {
 
-            System.out.println("❌ Error: ingrese solo numeros");
+            System.out.println(" Error: ingrese solo numeros (\t•`_´•)");
         }
     }
 }
