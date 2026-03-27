@@ -13,7 +13,7 @@
 
 > 2. Crear un Juego donde el usuario debe adivinar un número aleatorio entre n y m donde n y m son numeros enteros.
 
-> 3. Mostrar la tabla de multiplicar de un número dado por el usuario.
+> 3. mostrar la tabla de multiplicar de un número dado por el usuario.
 
 
 ## ⦗📑⦘ Contenido:
