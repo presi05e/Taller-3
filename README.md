@@ -1,6 +1,6 @@
 # ⦗📌⦘ TALLER#3
 
->Este repositorio es parte del Taller # 3 de La Clase de Logica de Programacíon, este tienen como enfoque
+>Este Repositorio es parte del Taller # 3 de La Clase de Logica de Programacíon, este tienen como enfoque
 
 `Durante este proceso de trabajo lo que vamos a realizar es lo siguiente:`
 
