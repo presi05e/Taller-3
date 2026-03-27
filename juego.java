@@ -10,10 +10,10 @@ public class juego {
 
             System.out.println("🎯 ===== JUEGO ADIVINA EL NUMERO ===== 🎯");
 
-            System.out.print("Ingrese el valor minimo (n)");
+            System.out.print("Ingrese el valor minimo (n): ");
             int n = sc.nextInt();
 
-            System.out.print("Ingrese el valor maximo (m)");
+            System.out.print("Ingrese el valor maximo (m): ");
             int m = sc.nextInt();
 
             int numeroSecreto = (int)(Math.random() * (m - n + 1)) + n;

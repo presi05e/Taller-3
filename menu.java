@@ -13,7 +13,7 @@ public class menu {
                 System.out.println(
                         " __| |____________________________________________| |__\n"
                       + "(__   ____________________________________________   __)\n"
-                      + "   | |        MENU DE OPCIONES  ( ͡° ͜ʖ ͡°)          | |\n"
+                      + "   | |        MENU DE OPCIONES  <(^_^)>           | |\n"
                       + "   | |  1. Suma n Fibonacci                       | |\n"
                       + "   | |  2. N-avo numero primo                     | |\n"
                       + "   | |  3. Raices ecuacion cuadratica             | |\n"
@@ -28,7 +28,7 @@ public class menu {
 
                 if (opcion == 1) {
 
-                    System.out.print("Ingrese n");
+                    System.out.print("Ingrese n: ");
                     int n = sc.nextInt();
 
                     int a = 0, b = 1, suma = 0;
@@ -45,7 +45,7 @@ public class menu {
 
                 else if (opcion == 2) {
 
-                    System.out.print("Ingrese n");
+                    System.out.print("Ingrese n: ");
                     int n = sc.nextInt();
 
                     int contador = 0, numero = 1;
@@ -60,19 +60,19 @@ public class menu {
 
                 else if (opcion == 3) {
 
-                    System.out.print("Ingrese A");
+                    System.out.print("Ingrese A: ");
                     double A = sc.nextDouble();
 
-                    System.out.print("Ingrese B");
+                    System.out.print("Ingrese B: ");
                     double B = sc.nextDouble();
 
-                    System.out.print("Ingrese C");
+                    System.out.print("Ingrese C: ");
                     double C = sc.nextDouble();
 
                     double d = (B * B) - (4 * A * C);
 
                     if (d < 0) {
-                        System.out.println("No tiene soluciones reales ¯\\_( ͡° ͜ʖ ͡°)_/¯");
+                        System.out.println("No tiene soluciones reales ");
                     } else {
 
                         double r = raiz(d);
@@ -101,12 +101,12 @@ public class menu {
                 }
 
                 else if (opcion == 5) {
-                    System.out.println("Fin del programa (• ◡•)");
+                    System.out.println("Fin del programa <(^_^)>");
                     break;
                 }
 
                 else {
-                    System.out.println("Opcion invalida (ಠ_ಠ)");
+                    System.out.println("Opcion invalida ¯\\(°_o)/¯");
                 }
 
             } catch (Exception e) {
