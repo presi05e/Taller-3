@@ -2,7 +2,7 @@
 
 >Este Repositorio es parte del Taller # 3 de La Clase de Logica de Programacíon, este tienen como enfoque
 
-`Durante este proceso de trabajo lo que vamos a realizar es lo siguiente:`
+>Durante este proceso de trabajo lo que vamos a realizar es lo siguiente:`
 
 > 1. Crear un programa con un programa infinito con las siguientes opciones:
 >- Suma n-esimo termino de la serie de fibonacci.
